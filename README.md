@@ -19,4 +19,5 @@
 - delete column that are not needed
  ## CONCLUSION
 - The total number of consumers is 124
-- the state with most consumer is san luis potosi with the total number of 79 consumers while morelos has 25 and tamaulipas has 20. 
+- the state with most consumer is san luis potosi with the total number of 79 consumers while morelos has 25 and tamaulipas has 20 while for cities san luis potosi, cuemavaca, ciudad victoria and jiutepec has 79, 21, 20 and 4 consumers. 
+- the 5 most prefered cusine are turkish, tibatan, tunisian, vegetarian and vietnamese while the list 5 are american, afgan, asian, africa and aremenian.
